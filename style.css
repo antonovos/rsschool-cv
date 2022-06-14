@@ -1,0 +1,39 @@
+body {
+    background: #ddd;
+    margin: 100px 200px;
+}
+.container {
+    
+    border: 2px solid black;
+    margin: 0 auto;
+    background: #ddd;
+    line-height: 1.5rem
+}
+h1 {
+    font-size: 64px;
+}
+h2 {
+    font-size: 32px;
+}
+main {
+    padding: 20px
+}
+footer {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    background-color: white;
+}
+.rsschool img {
+    height: 50px;
+}
+.github {
+    margin-left: 20px;
+    padding-top: 12px;
+    padding-left: 60px;
+    background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpngimg.com%2Fuploads%2Fgithub%2Fgithub_PNG40.png&f=1&nofb=1);
+    background-size: 50px 50px;
+    background-repeat: no-repeat;
+}
